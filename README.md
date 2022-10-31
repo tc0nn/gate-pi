@@ -5,4 +5,7 @@ There's not much here right now as I just needed a simple remote method of flipp
 [Electronics-Salon RPi Power Relay Board](https://www.amazon.com/dp/B07CZL2SKN)
 
 [Example Gate-PI Project Page](https://timstools.com/gate.html)
+
+![gate-pi](https://timstools.com/gate-pi.jpg)
+
 ![Relay Board](https://timstools.com/relay-board.png)
