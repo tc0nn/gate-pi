@@ -2,28 +2,6 @@ import RPi.GPIO as GPIO            # import RPi.GPIO module
 from time import sleep             # lets us have a delay  
 GPIO.setmode(GPIO.BCM)             # choose BCM or BOARD  
 
-
-def example():
-  #ios=[2,3,4,7,8,9,10,11,14,15,18,23,24,25,26]
-  ios=[26,20,21]
-  for x in ios:
-    print("GPIO "+str(x) )
-
-
-    GPIO.setup(x, GPIO.OUT)           # set GPIO24 as an output
-    try:
-      GPIO.output(x, 1)         # set GPIO24 to 1/GPIO.HIGH/True
-      sleep(0.5)                 # wait half a second
-      GPIO.output(x, 0)         # set GPIO24 to 0/GPIO.LOW/False
-  #    sleep(0.5)                 # wait half a second
-
-    except KeyboardInterrupt:          # trap a CTRL+C keyboard interrupt
-      GPIO.cleanup()                 # resets all GPIO ports used by this program
-
-
-
-
-
 from flask import Flask
 
 app = Flask(__name__)
