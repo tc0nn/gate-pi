@@ -12,5 +12,6 @@ There's not much here right now as I just needed a simple remote method of flipp
 
 ![gate-pi](https://timstools.com/gate-pi.jpg)
 
-[home link](https://www.amazon.com/gp/product/B00PCPL9OE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+[homelink remote control for gate controller](https://www.amazon.com/gp/product/B00PCPL9OE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
 ![remote](https://timstools.com/aleko-remote-control.png)
