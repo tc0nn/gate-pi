@@ -8,4 +8,6 @@ There's not much here right now as I just needed a simple remote method of flipp
 
 ![Relay Board](https://timstools.com/relay-board.png)
 
+![the gate](https://timstools.com/gate.png)
+
 ![gate-pi](https://timstools.com/gate-pi.jpg)
